@@ -29,7 +29,7 @@ This project demonstrates the use of **ICMP-based diagnostic tools** to verify n
 | `> [filename].txt` | Exporting CLI output for incident reports and documentation. |
 
 ## 📊 Visual Evidence
-![Traceroute CLI Output](./screenshots/cli-traceroute-hops.png)
+![Traceroute CLI Output](./Screenshots/cli-traceroute-hops.png)
 *Figure 1: Hop-by-hop analysis showing path latency and ISP handoffs.*
 
 ---
