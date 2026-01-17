@@ -32,7 +32,7 @@ This project focuses on **Host-Based Analysis** by investigating active system p
 | **Thread Inspection** | Analyze individual execution paths for suspicious CPU spikes. |
 
 ## 📊 Visual Evidence
-![Process Explorer Hierarchy](./screenshots/01_process-tree-view.png)
+![Process Explorer Hierarchy](./Screenshots/01_process-tree-view.png)
 *Figure 1: Analysis of the Windows process tree and legitimate system service lineage.*
 
 ---
