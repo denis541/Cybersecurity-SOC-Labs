@@ -1,8 +1,10 @@
 # 🛡️ Network Traffic Analysis: ICMP Encapsulation & Mininet Simulation
-
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![Node](https://img.shields.io/badge/node-18.x-blue)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-1679A7?logo=wireshark)
+![Packet Capture](https://img.shields.io/badge/Packet%20Capture-Active-blue?logo=protocols)
+![PCAP Analysis](https://img.shields.io/badge/PCAP-Analysis-green?logo=file)
+![Traffic Flow](https://img.shields.io/badge/Traffic%20Flow-Analyzing-lightgrey?logo=arxiv)
+![Deep Packet Inspection](https://img.shields.io/badge/Deep%20Packet%20Inspection-Running-red?logo=search)
+![TCP Streams](https://img.shields.io/badge/TCP%20Streams-Reconstructing-yellow?logo=streamlit)
 
 ## 📖 Executive Summary
 This project focuses on **Deep Packet Inspection (DPI)** within a virtualized Software Defined Network (SDN) environment. Using **Mininet** to simulate a multi-segment architecture, I conducted protocol analysis on ICMP traffic to validate the integrity of the **OSI Layer 2 (Data Link)** and **Layer 3 (Network)** headers during local and remote transmissions.
