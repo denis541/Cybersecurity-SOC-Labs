@@ -1,8 +1,12 @@
 # 07. Defensive Control: Incident Containment via ACLs 🛡️
-[![SOC](https://img.shields.io/badge/SOC-Active-blue?logo=security)](#)
-[![Monitoring](https://img.shields.io/badge/24%2F7-Monitoring-critical?logo=clockify)](#)
-[![Incident Response](https://img.shields.io/badge/Incident%20Response-Ready-red?logo=alert)](#)
-[![Threat Detection](https://img.shields.io/badge/Threat%20Detection-Enabled-brightgreen?logo=radar)](#)
+![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?logo=cisco)
+![Cisco Networking](https://img.shields.io/badge/Cisco-Networking-blue?logo=cisco)
+![Network Security](https://img.shields.io/badge/Network%20Security-Enabled-green?logo=shield)
+![Firewall](https://img.shields.io/badge/Firewall-Configured-red?logo=firefoxbrowser)
+![ACL Rules](https://img.shields.io/badge/ACL%20Rules-Active-orange?logo=list)
+![Firewall Policy](https://img.shields.io/badge/Firewall%20Policy-Enforced-critical?logo=security)
+![Access Control](https://img.shields.io/badge/Access%20Control-ACL%20Rules-yellow?logo=lock)
+
 ## 📝 Project Overview
 This lab demonstrates the implementation of **Network Access Control Lists (ACLs)** to enforce security boundaries and contain potential lateral movement. By configuring standard IPv4 ACLs, I successfully isolated a specific network segment, simulating a response to an unauthorized traffic discovery.
 
