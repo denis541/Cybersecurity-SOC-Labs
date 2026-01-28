@@ -19,7 +19,7 @@ Windows systems implement an Execution Policy as a primary defense mechanism aga
 To execute this utility without compromising the long-term security posture of the host system, we employ a Process-Level Bypass.  
 Instead of permanently altering the system registry via Set-ExecutionPolicy, we utilize a scoped execution flag. This allows the script to run within a single, isolated session. Once the PowerShell process terminates, the system's original security restrictions remain fully intact.
 
-## Command for Execution
+## Command for Execution.
 To run the validator under a temporary bypass, execute the following from the terminal:
 
 ```powershell
