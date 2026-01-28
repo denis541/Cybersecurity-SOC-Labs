@@ -12,7 +12,7 @@ This project provides a series of Linux-based processing scripts designed to per
 ## Technical Specifications
 - **Environment:** Linux / Security Onion
 - **Core Tools:** AWK, Bash, Sed
-- **Log Types Handled:** Apache Web Logs, Custom Application Logs (Pipe-delimited)
+- **Log Types Handled:** Apache Web Logs, Custom Application Logs (Pipe-delimited).
 
 ## Key Functionalities
 - **Timestamp Conversion:** Automated conversion of Unix Epoch strings to Human-Readable (UTC) format using internal AWK `strftime` functions.
