@@ -25,7 +25,7 @@ To run the validator under a temporary bypass, execute the following from the te
 ```powershell
 PowerShell.exe -ExecutionPolicy Bypass -File ".\Hashcompaire.ps1"
 ```
-## Functional Logic
+## Functional Logic.
 The utility follows a three-stage analytical workflow:
 
 Input Sanitization: Captures and cleans string literal paths provided by the user.
