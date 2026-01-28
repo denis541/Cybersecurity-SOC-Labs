@@ -33,7 +33,7 @@ Input Sanitization: Captures and cleans string literal paths provided by the use
 Cryptographic Generation: Calculates the SHA-256 hash (Industry Standard) for the specified source and target binaries.
 
 Binary Comparison: Performs a boolean match of the hash strings to confirm if the files are bit-for-bit identical.
-## Technical Requirements
+## Technical Requirements.
 Environment: PowerShell 5.1 or PowerShell Core (7.x+).
 Permissions: Read-access to the target files is mandatory.
 Algorithm: ``SHA-256 (Default).`` but can be changed to MD5 or any other.
