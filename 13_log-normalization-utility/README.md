@@ -6,7 +6,7 @@
 ![Bash](https://img.shields.io/badge/Scripting-Bash-green?logo=gnu-bash)
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-# Log Data Normalization Utility Overview
+# Log Data Normalization Utility Overview.
 This project provides a series of Linux-based processing scripts designed to perform **Data Normalization** on disparate security log sources. In a Security Operations Center (SOC) environment, log sources often utilize inconsistent timestamp formats (e.g., Unix Epoch vs. ISO 8601) and varying delimiters. This utility standardizes these logs into a universal, human-readable format to facilitate high-fidelity event correlation and SIEM ingestion.
 
 ## Technical Specifications
