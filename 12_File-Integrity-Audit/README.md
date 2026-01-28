@@ -9,7 +9,7 @@
 ## Project Overview.
 This utility provides a standardized method for cryptographic validation of file integrity using PowerShell's `Get-FileHash` cmdlet. It is designed to mitigate the risk of data corruption or unauthorized file substitution by comparing binary-level SHA-256 signatures.
 
-# Security Context: Execution Policies
+# Security Context: Execution Policies.
 Windows systems implement an Execution Policy as a primary defense mechanism against the automated execution of malicious code.  
 
 **Default State:** Most systems are set to Restricted, which prevents all scripts from running, regardless of their source.  
