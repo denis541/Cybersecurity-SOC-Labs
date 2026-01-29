@@ -223,7 +223,7 @@ The analytical capabilities demonstrated align with the knowledge domains covere
   Advanced digital forensics and artifact analysis methodologies.
   
 
-# Professional Contact
+# Contact Information.
 ### Name: Denis O. Onduso
 
 ### Scope: Security Operations & Cybersecurity Analyst
