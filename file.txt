@@ -37,3 +37,13 @@ SIEM Implementation: Deployed and managed a Splunk Enterprise environment to agg
 Threat Detection: Developed custom Sysmon configurations and PowerShell scripts to perform File Integrity Monitoring (FIM) via SHA-256 hashing.
 Adversary Emulation: Validated defensive visibility by executing Atomic Red Team tests mapped to the MITRE ATT&CK Framework.
 Analysis & Reporting: Created automated dashboards and alerts to monitor for indicators of compromise (IoCs) and network anomalies.
+
+🛡️ SOC Component Documentation Checklist
+Use this structure to document your deployment and tuning of each tool within your centralized repository.
+Operational Focus	Tooling	Core Analytical Task	Deployment Method
+Signature Detection	Suricata	Rule tuning & false positive reduction.	Suricata Installation Guide
+Network Telemetry	Zeek	Protocol analysis & lateral movement detection.	Zeek Documentation
+Endpoint Visibility	Wazuh	FIM (File Integrity Monitoring) & log aggregation.	Wazuh Deployment Guide
+Packet Forensics	Wireshark	Deep packet inspection (DPI) & stream reassembly.	Wireshark Official Site
+Data Orchestration	ELK Stack	Search indexing & dashboard visualization.	Elasticsearch Guide
+Payload Analysis	CyberChef	Deobfuscation of malicious strings/scripts.	CyberChef Web App
