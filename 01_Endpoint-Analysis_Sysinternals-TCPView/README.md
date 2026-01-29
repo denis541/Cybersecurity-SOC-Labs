@@ -3,7 +3,7 @@
 ### 📖 Project Overview
 This implementation focuses on host-based security monitoring. By utilizing the **Microsoft Sysinternals Suite**, I analyzed active processes and their associated network endpoints (TCP/UDP) to identify baseline system behavior and user-initiated activity.
 
-## 🚀 Execution Steps
+## 🚀 Execution Steps.
 
 ### 1. Environment Setup
 - Deployed the **Windows Sysinternals Suite**, a collection of advanced system utilities for troubleshooting and security analysis.
