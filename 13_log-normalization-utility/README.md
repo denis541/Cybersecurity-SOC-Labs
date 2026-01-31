@@ -11,7 +11,7 @@ This project provides a series of Linux-based processing scripts designed to per
 
 ## Technical Specifications.
 - **Environment:** Linux / Security onion
-- **Core Tools:** AWK, Bash, Sed
+- **Core Tools:** AWK, Bash, 
 - **Log Types Handled:** Apache Web Logs, Custom Application Logs (Pipe-delimited).
 
 ## Key Functionalities.
