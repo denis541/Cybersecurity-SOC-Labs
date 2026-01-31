@@ -10,7 +10,7 @@
 This project provides a series of Linux-based processing scripts designed to perform **Data Normalization** on disparate security log sources. In a Security Operations Center (SOC) environment, log sources often utilize inconsistent timestamp formats (e.g., Unix Epoch vs. ISO 8601) and varying delimiters. This utility standardizes these logs into a universal, human-readable format to facilitate high-fidelity event correlation and SIEM ingestion.
 
 ## Technical Specifications.
-- **Environment:** Linux / Security onion
+- **Environment:** Linux / Security onion   
 - **Core Tools:** AWK, Bash, sed
 - **Log Types Handled:** Apache Web Logs, Custom Application Logs (Pipe-delimited).
 
