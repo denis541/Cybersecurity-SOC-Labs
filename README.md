@@ -31,7 +31,7 @@ The repository reflects structured security operations workflows aligned with in
 ---
 ## Technical Analysis Capabilities.
 
-### Endpoint Security Analysis
+### Endpoint Security Analysis.
 
 ![Endpoint](https://img.shields.io/badge/Endpoint-Sysinternals-0078D4?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-PowerShell-5391FE?style=for-the-badge)
