@@ -3,7 +3,7 @@
 ![AWK](https://img.shields.io/badge/Tool-AWK-yellow)  
 ![sed](https://img.shields.io/badge/Tool-sed-orange)
 ![Platform: Linux](https://img.shields.io/badge/Platform-Linux-blue?logo=linux)
-![Bash](https://img.shields.io/badge/Scripting-Bash-green?logo=gnu-bash)
+![Bash](https://img.shields.io/badge/Scripting-Bash-green?logo=gnu-bash) 
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 # Log Data Normalization Utility Overview.
