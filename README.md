@@ -1,7 +1,7 @@
 # Security Operations & Cybersecurity Analysis Portfolio
 
 ![SOC Analyst](https://img.shields.io/badge/Role-SOC_Analyst-0052CC)
-![Incident Response](https://img.shields.io/badge/Specialization-Incident_Response-FF6B6B)
+![Incident Response](https://img.shields.io/badge/Specialization-Incident_Response-FF6B6B)  
 ![Threat Hunting](https://img.shields.io/badge/Focus-Threat_Hunting-00B894)
 ![Forensics](https://img.shields.io/badge/Expertise-Digital_Forensics-6C5CE7)  
 
