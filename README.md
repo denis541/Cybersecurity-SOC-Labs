@@ -7,7 +7,7 @@
 
 **Author:** Denis O. Onduso  
 
-**Security Domain:** Security Operations Center (SOC) | Digital Forensics | Detection Engineering  
+**Security Domain:** Security Operations Center (SOC) | Digital Forensics | Detection Engineering    
 
 **Status:** Operational Analysis Portfolio | Professional Readiness Demonstration
 
