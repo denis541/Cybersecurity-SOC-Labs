@@ -11,7 +11,7 @@
 ![NIST](https://img.shields.io/badge/NIST_CSF-003087?style=flat&logoColor=white) 
 ![MIT License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 # Security Operations & Incident Response Portfolio
-ee
+e
 **Denis O. Onduso** · SOC Analysis · Digital Forensics · Detection Engineering  
 📧 Denis.Onduso@outlook.com
 
